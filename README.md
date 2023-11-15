@@ -1,3 +1,3 @@
 # BD Practices
 
-Practices mostly on mariadb. 
+Data base practices. 
